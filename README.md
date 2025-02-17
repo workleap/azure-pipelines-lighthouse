@@ -131,4 +131,4 @@ There are GitHub actions that take care of testing, packaging and publishing the
 
 ## License
 
-Copyright © 2023, Groupe GSoft Inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/gsoft-inc/azure-pipelines-lighthouse/blob/main/LICENSE.
+Copyright © 2023, Groupe GSoft Inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/workleap/azure-pipelines-lighthouse/blob/main/LICENSE.
