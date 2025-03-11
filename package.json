@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/mocha": "10.0.10",
-    "@types/node": "22.13.9",
+    "@types/node": "22.13.10",
     "husky": "9.1.7",
     "minimist": "1.2.8",
     "mocha": "11.1.0",
